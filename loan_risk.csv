@@ -1,0 +1,15 @@
+Collateral,Income,Debt,Credit History,Risk
+none,a,high,bad,high
+none ,b,high,unk,high
+none,b,low,unk,moderate
+none,a,low,unk,high
+none,c,low,unk,low
+ade,c,low,unk,low
+none,a,low,bad,high
+ade,c,low,bad,moderate
+none,c,low,good,low 
+ade,c,high,good,low
+none,a,high,good,high
+none,b,high,good ,moderate
+none,c,high,good,low
+none,a,high,bad,high
